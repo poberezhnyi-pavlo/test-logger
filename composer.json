@@ -11,6 +11,7 @@
   ],
   "require": {
     "php": "^8.0.2",
+    "moontoast/math": "^1.1.2",
     "wyrihaximus/html-compress": "^4.2"
   },
   "require-dev": {
